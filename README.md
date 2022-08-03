@@ -26,7 +26,7 @@ python3 main.py path/to/your/geometry/dash/directory
 
 **READ THIS BEFORE EXECUTING THE SCRIPT!**
 
-After running, it will IMEDIATELLY create a new folder called "extracted" on the same directory where the executed file is, and then start extracing all the textures.
+After running, it will IMEDIATELLY create a new folder called "extracted" on the same directory where the executed file is, and then start extracing and copying all the textures to that folder.
 
 In the console, will appear every texture file name, and their properties.
 
